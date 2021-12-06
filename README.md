@@ -6,7 +6,7 @@ Working group dedicated to two-factor authentication in Nextcloud. This includes
 
 The two-factor auth working group is dedicated to improving and maintaining all two-factor aspects inside the Nextcloud ecosystem.
 
-## Leads
+## Members
 
 * [Anna Larch](https://github.com/miaulalala)
 * [Christoph Wurst](https://github.com/ChristophWurst)
