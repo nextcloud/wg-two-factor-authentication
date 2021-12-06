@@ -3,3 +3,6 @@ contact_links:
     - name: Support and Help
       url: https://help.nextcloud.com/
       about: Ask a question or seek for help
+    - name: Security issue
+      url: https://hackerone.com/nextcloud
+      about: Report a security issue
