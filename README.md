@@ -22,3 +22,4 @@ The code and information is spread across multiple repositories. The following l
 * [Notification Provider](https://github.com/nextcloud/twofactor_nextcloud_notification)
 * [TOTP Provider](https://github.com/nextcloud/twofactor_totp)
 * [U2F Provider](https://github.com/nextcloud/twofactor_u2f)
+* [WebAuthn Provider](https://github.com/nextcloud/twofactor_webauthn)
