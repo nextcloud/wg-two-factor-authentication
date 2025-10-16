@@ -11,7 +11,6 @@ The two-factor auth working group is dedicated to improving and maintaining all 
 * [Anna Larch](https://github.com/miaulalala)
 * [Christoph Wurst](https://github.com/ChristophWurst)
 * [Joas Schilling](https://github.com/nickvergessen)
-* [Richard Steinmetz](https://github.com/st3iny)
 
 ## Components
 
